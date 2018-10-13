@@ -1,2 +1,2 @@
 # hello-world
-This is a small step of today, but a giant step my coding career
+A small step of today, a giant step for the future
