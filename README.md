@@ -1,2 +1,2 @@
 # hello-world
-A small step of today, a giant step for the future
+A small step today, a giant step tomorrow
